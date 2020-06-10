@@ -1,0 +1,5 @@
+# Ignoro la directory dell'ide
+.DS_Store
+.vscode
+# Ignoro la directory con la libreria
+jwtcrack
